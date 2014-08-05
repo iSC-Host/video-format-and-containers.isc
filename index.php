@@ -1,3 +1,3 @@
-<?PHP
-  include 'README.md';
+<?php
+include("README.md");
 ?>
